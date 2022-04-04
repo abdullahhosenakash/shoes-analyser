@@ -8,10 +8,9 @@ import NewPieChart from '../Charts/NewPieChart/NewPieChart';
 
 const Dashboard = () => {
     const [data] = useData();
-    console.log(data)
     return (
-        <div>
-            <h1>This is Dashboard</h1>
+        <div className='dashboard'>
+            <h1>Analyze the Informations</h1>
             <div className='charts'>
                 <NewLineChart data={data}></NewLineChart>
                 <NewAreaChart data={data}></NewAreaChart>

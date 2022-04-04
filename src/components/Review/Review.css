@@ -1,7 +1,7 @@
 .customer-review {
-    border: 1px solid rgb(212, 209, 209);
     padding: 20px;
     border-radius: 20px;
+    box-shadow: 2px 2px 15px rgb(202, 194, 194);
 
 }
 
@@ -19,4 +19,8 @@
 .review-detail h3,
 p {
     margin: 5px;
+}
+
+.ratings {
+    color: orange;
 }

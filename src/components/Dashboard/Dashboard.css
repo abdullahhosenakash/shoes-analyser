@@ -3,3 +3,7 @@
     gap: 50px;
     grid-template-columns: repeat(2, 1fr);
 }
+
+.dashboard h1 {
+    margin: 50px;
+}
