@@ -1,0 +1,65 @@
+[
+  {
+    "id": "624ab8032b6e6a00ffba2bd3",
+    "ratings": 5,
+    "picture": "https://i.ibb.co/Q86Wp2k/customer1.jpg",
+    "name": "Karen Griffith",
+    "review": "Nice Shoes. I recomend to buy"
+  },
+  {
+    "id": "624ab803c80e851135077279",
+    "ratings": 2,
+    "picture": "https://i.ibb.co/YP7gV7v/customer2.jpg",
+    "name": "Pruitt Clay",
+    "review": "Beautiful shoes I have ever seen. You can buy"
+  },
+  {
+    "id": "624ab8030ce524e759e53147",
+    "ratings": 5,
+    "picture": "https://i.ibb.co/qgtHtzD/customer3.jpg",
+    "name": "Bradford Cook",
+    "review": "Excellent shoes. Nice to wear."
+  },
+  {
+    "id": "624ab8034c47540ce69efd3a",
+    "ratings": 5,
+    "picture": "https://i.ibb.co/rvQWnCz/customer4.jpg",
+    "name": "Powell Anthony",
+    "review": "Fine shoes but expensive"
+  },
+  {
+    "id": "624ab8038a49cc7757b7cd0a",
+    "ratings": 5,
+    "picture": "https://i.ibb.co/0QLP0Lj/customer5.jpg",
+    "name": "Ballard Velazquez",
+    "review": "Whatever Price is, I like this shoes"
+  },
+  {
+    "id": "624ab803ab04e7957dc1c39b",
+    "ratings": 2,
+    "picture": "https://i.ibb.co/Y0Y8Tk5/customer6.jpg",
+    "name": "Gaines Bright",
+    "review": "Price should be low. I like the quality although"
+  },
+  {
+    "id": "624ab8033229824b42a7761a",
+    "ratings": 3,
+    "picture": "https://i.ibb.co/wKsw0MJ/customer7.jpg",
+    "name": "Gretchen Crane",
+    "review": "My wife choose these shoes for me and I loved it"
+  },
+  {
+    "id": "624ab803e211c511ce8b3dab",
+    "ratings": 2,
+    "picture": "https://i.ibb.co/0r7Z7SC/customer8.jpg",
+    "name": "Yang Keller",
+    "review": "Thanks to the seller for the beautiful shoes"
+  },
+  {
+    "id": "624ab80379a0ca8052a9b851",
+    "ratings": 3,
+    "picture": "https://i.ibb.co/yQDSXL2/customer9.jpg",
+    "name": "Stella Peck",
+    "review": "Shoes are awesome I have bought. You can buy it also."
+  }
+]
