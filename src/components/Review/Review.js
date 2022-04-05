@@ -6,10 +6,12 @@ import './Review.css';
 const Review = props => {
     const { name, picture, ratings, review } = props.review;
     let newRatings = [];
+    let customKey;
     for (let i = 0; i < ratings; i++) {
-        newRatings[i] = <FontAwesomeIcon icon={faStar}></FontAwesomeIcon>;
+        //khub jhamela koreche ei font awesome er key er warning. 
+        customKey = Math.random(100);
+        newRatings[i] = <FontAwesomeIcon key={customKey} icon={faStar}></FontAwesomeIcon>;
     }
-    console.log(newRatings)
     return (
         <div className='customer-review'>
             <img src={picture} alt="" />

@@ -1,5 +1,6 @@
 [
   {
+    "slug": "1",
     "id": "624ab8032b6e6a00ffba2bd3",
     "ratings": 5,
     "picture": "https://i.ibb.co/Q86Wp2k/customer1.jpg",
@@ -7,6 +8,7 @@
     "review": "Nice Shoes. I recommend to buy"
   },
   {
+    "slug": "2",
     "id": "624ab803c80e851135077279",
     "ratings": 2,
     "picture": "https://i.ibb.co/YP7gV7v/customer2.jpg",
@@ -14,6 +16,7 @@
     "review": "Beautiful shoes I have ever seen. You can buy"
   },
   {
+    "slug": "3",
     "id": "624ab8030ce524e759e53147",
     "ratings": 5,
     "picture": "https://i.ibb.co/qgtHtzD/customer3.jpg",
@@ -21,6 +24,7 @@
     "review": "Excellent shoes. Nice to wear."
   },
   {
+    "slug": "4",
     "id": "624ab8034c47540ce69efd3a",
     "ratings": 5,
     "picture": "https://i.ibb.co/rvQWnCz/customer4.jpg",
@@ -28,6 +32,7 @@
     "review": "Fine shoes but expensive"
   },
   {
+    "slug": "5",
     "id": "624ab8038a49cc7757b7cd0a",
     "ratings": 5,
     "picture": "https://i.ibb.co/0QLP0Lj/customer5.jpg",
@@ -35,6 +40,7 @@
     "review": "Whatever Price is, I like this shoes"
   },
   {
+    "slug": "6",
     "id": "624ab803ab04e7957dc1c39b",
     "ratings": 2,
     "picture": "https://i.ibb.co/Y0Y8Tk5/customer6.jpg",
@@ -42,6 +48,7 @@
     "review": "Price should be low. I like the quality although"
   },
   {
+    "slug": "7",
     "id": "624ab8033229824b42a7761a",
     "ratings": 3,
     "picture": "https://i.ibb.co/wKsw0MJ/customer7.jpg",
@@ -49,6 +56,7 @@
     "review": "My wife choose these shoes for me and I loved it"
   },
   {
+    "slug": "8",
     "id": "624ab803e211c511ce8b3dab",
     "ratings": 2,
     "picture": "https://i.ibb.co/0r7Z7SC/customer8.jpg",
@@ -56,6 +64,7 @@
     "review": "Thanks to the seller for the beautiful shoes"
   },
   {
+    "slug": "9",
     "id": "624ab80379a0ca8052a9b851",
     "ratings": 3,
     "picture": "https://i.ibb.co/yQDSXL2/customer9.jpg",
