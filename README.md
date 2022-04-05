@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Shoes Analyzer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a review project of shoes which will analyze all the reviews of different customer [Shoes Analyzer](https://shoes-analyzer-kabir.netlify.app).
 
-## Available Scripts
+## What has we done:
 
-In the project directory, you can run:
+
 
 ### `npm start`
 

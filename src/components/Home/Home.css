@@ -29,6 +29,10 @@
     height: 500px;
 }
 
+.reviews-section {
+    margin-bottom: 50px;
+}
+
 .review {
     display: grid;
     gap: 30px;
@@ -36,9 +40,8 @@
     margin: 50px 0;
 }
 
-.see-all-less-button {
+.live-demo-see-all-button {
     margin: 20px;
-    width: 50%;
     font-size: 20px;
     padding: 15px;
     border-radius: 10px;
@@ -46,9 +49,20 @@
     background-color: rgba(1, 112, 197, 0.651);
     color: white;
     cursor: pointer;
+    margin-right: auto;
+    margin-left: auto;
 }
 
-.see-all-less-button:hover {
+.live-demo-button {
+    padding: 15px 50px;
+}
+
+.see-all-reviews-button {
+    padding: 10px 100px;
+}
+
+
+.live-demo-see-all-button:hover {
 
     background-color: #0170c5;
 }

@@ -7,19 +7,7 @@ import './Home.css';
 const Home = () => {
     const [reviews] = useReviews();
     const newReviews = reviews.slice(0, 3);
-    const [restReviews, setRestReviews] = useState([]);
-    const [toggleSeeReviewsButton, setToggleSeeReviewsButton] = useState(false);
-
-
-    const handleSeeAllReviews = () => {
-        const restReviews = reviews.slice(3, reviews.length);
-        setRestReviews(restReviews);
-        setToggleSeeReviewsButton(!toggleSeeReviewsButton);
-    }
-    const handleSeeLessReviews = () => {
-        setRestReviews([]);
-        setToggleSeeReviewsButton(!toggleSeeReviewsButton);
-    }
+    const [restReviews] = useState([]);
 
     return (
         <main>
@@ -28,13 +16,13 @@ const Home = () => {
                     <h1>Wear Shoes</h1>
                     <h1 className='second-heading'>Make Foos</h1>
                     <p>Shoes are an essential part of human beings. You can not imagine your day without shoes. So it is time to study some reviews and buy a pair of fancy shoes from here</p>
-                    <Link to='/livedemo' style={{ fontSize: '30px', textDecoration: 'none', backgroundColor: '#0170c5', padding: '15px 20px', borderRadius: '20px', color: 'white' }}>Live Demo</Link>
+                    <Link to='/livedemo' style={{ textDecoration: 'none', color: 'white' }}><span className='live-demo-see-all-button live-demo-button'>Live Demo</span></Link>
                 </div>
                 <div className="shoes-heading-image">
                     <img src="https://i.ibb.co/1Lk5jtJ/main-image.jpg" alt="" />
                 </div>
             </section>
-            <section>
+            <section className='reviews-section'>
                 <h1>Customer Reviews({reviews.length})</h1>
                 <div className="review">
                     {
@@ -52,9 +40,7 @@ const Home = () => {
                     }
                 </div>
 
-                {
-                    toggleSeeReviewsButton ? <button className='see-all-less-button' onClick={handleSeeLessReviews}>See Less Reviews</button> : <button className='see-all-less-button' onClick={handleSeeAllReviews}>See All Reviews</button>
-                }
+                <Link to='/reviews' style={{ textDecoration: 'none', color: 'white' }}><span className='live-demo-see-all-button see-all-reviews-button'>See All Reviews</span></Link>
             </section>
         </main>
     );
