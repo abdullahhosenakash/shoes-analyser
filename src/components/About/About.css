@@ -1,0 +1,26 @@
+.about img {
+    width: 50%;
+    border-radius: 20px;
+}
+
+.about p {
+    font-size: large;
+    text-align: justify;
+    width: 50%;
+    margin: 50px auto 50px auto;
+}
+
+@media only screen and (max-width: 992px) {
+    .about {
+        margin: 20px;
+    }
+
+    .about img {
+        width: 100%;
+    }
+
+    .about p {
+        width: 100%;
+        margin: 50px auto 50px auto;
+    }
+}

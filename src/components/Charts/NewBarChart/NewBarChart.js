@@ -5,7 +5,7 @@ const NewBarChart = ({ data }) => {
     return (
         <div className='chart'>
             <BarChart
-                width={400}
+                width={300}
                 height={250}
                 data={data}
                 margin={{

@@ -5,7 +5,8 @@ const ShoesAreaChart = ({ data }) => {
     return (
         <div className='chart'>
             <AreaChart
-                width={400}
+                className='area-chart'
+                width={300}
                 height={250}
                 data={data}
                 margin={{

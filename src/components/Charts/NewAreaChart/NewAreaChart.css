@@ -1,0 +1,14 @@
+@media only screen and (max-width: 992px) {
+    .chart {
+        width: 90%;
+    }
+
+    .area-chart {
+        width: 50%;
+    }
+}
+
+.area-chart {
+    width: 400px;
+    height: 250px;
+}

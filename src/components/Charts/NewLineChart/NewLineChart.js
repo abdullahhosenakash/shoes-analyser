@@ -5,7 +5,7 @@ const ShoesLineChart = ({ data }) => {
     return (
         <div className='chart'>
             <LineChart
-                width={400}
+                width={300}
                 height={250}
                 data={data}
                 margin={{
