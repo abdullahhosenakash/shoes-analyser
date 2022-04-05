@@ -20,6 +20,7 @@ const Home = () => {
         setRestReviews([]);
         setToggleSeeReviewsButton(!toggleSeeReviewsButton);
     }
+
     return (
         <main>
             <section className='shoes-detail'>

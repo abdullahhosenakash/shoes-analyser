@@ -1,0 +1,16 @@
+.questions {
+    border: 2px solid #0170c5;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.questions h1 {
+    font-size: 30px;
+    margin: 5px;
+}
+
+.questions p {
+    font-size: large;
+    text-align: justify;
+}
