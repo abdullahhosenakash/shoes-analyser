@@ -1,6 +1,6 @@
 # Shoes Analyzer
 
-This is a review project of shoes which will analyze all the reviews of different customer [Shoes Analyzer](https://shoes-analyzer-kabir.netlify.app).
+This is a review project of shoes which will analyze all the reviews of different customer [Shoes Analyzer](https://shoes-analyser.web.app/).
 
 ## What the project has:
 
