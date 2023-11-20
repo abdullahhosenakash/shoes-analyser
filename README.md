@@ -2,7 +2,7 @@
 
 This is a review project of shoes which will analyze all the reviews of different customer
 
-- Live Link: [Shoes Analyzer](https://shoes-analyser.web.app/).
+- Live Link: [Shoes Analyzer](https://shoes-analyser.web.app/)
 
 ## What the project has:
 
